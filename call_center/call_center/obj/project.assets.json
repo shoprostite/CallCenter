@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\egor1\\Desktop\\CC\\call_center\\call_center\\call_center.csproj",
+      "projectUniqueName": "C:\\Users\\egor1\\Source\\Repos\\CallCenter\\call_center\\call_center\\call_center.csproj",
       "projectName": "call_center",
-      "projectPath": "C:\\Users\\egor1\\Desktop\\CC\\call_center\\call_center\\call_center.csproj",
+      "projectPath": "C:\\Users\\egor1\\Source\\Repos\\CallCenter\\call_center\\call_center\\call_center.csproj",
       "packagesPath": "C:\\Users\\egor1\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\egor1\\Desktop\\CC\\call_center\\call_center\\obj\\",
+      "outputPath": "C:\\Users\\egor1\\Source\\Repos\\CallCenter\\call_center\\call_center\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\egor1\\AppData\\Roaming\\NuGet\\NuGet.Config",
