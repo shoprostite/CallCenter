@@ -7,9 +7,4 @@
     <UseWPF>true</UseWPF>
   </PropertyGroup>
 
-  <ItemGroup>
-    <Folder Include="Resouses\Image\" />
-    <Folder Include="Resouses\Ico\" />
-  </ItemGroup>
-
 </Project>

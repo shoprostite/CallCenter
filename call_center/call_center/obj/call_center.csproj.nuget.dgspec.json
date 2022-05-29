@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\egor1\\Source\\Repos\\CallCenter\\call_center\\call_center\\call_center.csproj": {}
+    "C:\\Users\\egor1\\source\\repos\\CallCenter\\call_center\\call_center\\call_center.csproj": {}
   },
   "projects": {
-    "C:\\Users\\egor1\\Source\\Repos\\CallCenter\\call_center\\call_center\\call_center.csproj": {
+    "C:\\Users\\egor1\\source\\repos\\CallCenter\\call_center\\call_center\\call_center.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\egor1\\Source\\Repos\\CallCenter\\call_center\\call_center\\call_center.csproj",
+        "projectUniqueName": "C:\\Users\\egor1\\source\\repos\\CallCenter\\call_center\\call_center\\call_center.csproj",
         "projectName": "call_center",
-        "projectPath": "C:\\Users\\egor1\\Source\\Repos\\CallCenter\\call_center\\call_center\\call_center.csproj",
+        "projectPath": "C:\\Users\\egor1\\source\\repos\\CallCenter\\call_center\\call_center\\call_center.csproj",
         "packagesPath": "C:\\Users\\egor1\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\egor1\\Source\\Repos\\CallCenter\\call_center\\call_center\\obj\\",
+        "outputPath": "C:\\Users\\egor1\\source\\repos\\CallCenter\\call_center\\call_center\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\egor1\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\egor1\Source\Repos\CallCenter\call_center\call_center\obj\Debug\net6.0-windows\
+C:\Users\egor1\source\repos\CallCenter\call_center\call_center\obj\Debug\net6.0-windows\
 call_center
 none
 false
 TRACE;DEBUG;NET;NET6_0;NETCOREAPP
-C:\Users\egor1\Source\Repos\CallCenter\call_center\call_center\App.xaml
+C:\Users\egor1\source\repos\CallCenter\call_center\call_center\App.xaml
 244296198
 
 5-462405523
 1941142463650
 MainWindow.xaml;Resouses\Themes\Dictionary1.xaml;
 
-False
+True
 

@@ -5,6 +5,22 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:call_center"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
-    
+        Title="Call Center " Height="450" Width="415" MinHeight="450" MinWidth="415" MaxHeight="450" MaxWidth="415" Icon="C:\Users\egor1\source\repos\CallCenter\call_center\call_center\Resouses\Ico\call-center.png" Background="#FF82B9E6">
+    <Grid Margin="0,0,0,-11">
+        <Rectangle Margin="60,41,55,40" RadiusX="24" RadiusY="24">
+            <Rectangle.Fill>
+                <SolidColorBrush Color="White" Opacity="0.75"/>
+            </Rectangle.Fill>
+        </Rectangle>
+        <Image Margin="0,55,0,0" Source="C:\Users\egor1\source\repos\CallCenter\call_center\call_center\Resouses\Image\logo.png" Stretch="Fill" HorizontalAlignment="Center" VerticalAlignment="Top" Height="92" Width="105"/>
+        <Label Content="Call Celter" HorizontalAlignment="Center" VerticalAlignment="Top" FontFamily="Tahoma" FontSize="20" Height="30" Width="100" Margin="0,157,0,0" FontStyle="Normal"/>
+        <Label Content="Авторизация" Margin="146,188,0,0" FontFamily="Tahoma" FontSize="16" HorizontalAlignment="Left" VerticalAlignment="Top"/>
+        <TextBox Margin="86,248,0,0" BorderBrush="{x:Null}" SelectionBrush="#FF82B9E6" HorizontalAlignment="Left" VerticalAlignment="Top" Width="184" Height="18"/>
+        <PasswordBox Margin="86,302,0,0" BorderBrush="{x:Null}" HorizontalAlignment="Left" VerticalAlignment="Top" Width="184"/>
+        <Button x:Name="ex" Content="войти" Foreground="White" Margin="154,337,149,58" Background="White">
+            
+        </Button>
+        <Label Content="логин" Margin="86,209,0,0" FontSize="16" HorizontalAlignment="Left" VerticalAlignment="Top"/>
+        <Label Content="пароль" Margin="86,266,0,0" FontSize="16" HorizontalAlignment="Left" VerticalAlignment="Top"/>
+    </Grid>
 </Window>
